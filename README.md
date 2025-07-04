@@ -25,10 +25,10 @@
 
 ---
 
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshtarale&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh576&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
