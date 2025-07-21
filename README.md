@@ -1,19 +1,25 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Tarale</h1>
-<h3 align="center">AI/ML Enthusiast | 1st Year Engineering Student | G S Moze College of Engineering</h3>
+<h1 align="center">🚀 Elevating Ideas with Code — I'm Bhavesh Tarale</h1>
+<h3 align="center">AI/ML Explorer | 2nd Year Engineering Student | Savitribai Phule Pune University</h3>
 
-<img align="right" alt="AI Gif" height="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🔭 I’m currently learning **AI & Machine Learning**
-- 💻 Practicing **C / C++ / Java** and improving coding logic
-- 🌱 Building real-world projects step-by-step
-- 👨‍💻 I love learning by doing and exploring new tools
-- 🤝 Looking to connect with like-minded developers
-- ⚡ Fun fact: I'm always curious how AI thinks 🤖
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" height="250"/>
+</p>
 
 ---
 
-### 🛠️ Languages and Tools I’m Learning:
-<p align="left">
+### 👨‍💻 About Me
+
+- 🔭 Currently diving deep into **AI, ML, and Real-World Projects**
+- 💻 Practicing **C / C++ / Java / Python** and building a strong foundation
+- 🧠 Passionate about exploring how **machines can think like humans**
+- 🎯 Focused on **project-based learning** and constant upskilling
+- ⚡ Fun Fact: I believe in learning by breaking and building things again!
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -25,15 +31,43 @@
 
 ---
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh576&layout=compact)
+### 🚀 Projects I’ve Built
 
+- 🎮 **C++ Number Guessing Game** – A console-based logic game to sharpen fundamentals  
+- 📊 **Data Analyzer** – A project to visualize and analyze datasets using Python  
+- 🤖 **Gesture Control App** – Control system UI with hand gestures using OpenCV  
+- 🧠 **Gemi AI Chatbot** – A virtual AI assistant with memory & real-time responses  
 
+---
+
+## 🚀 Languages & Tech Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh576&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Languages" />
+</p>
 
 
 ---
 
-### 🌐 Connect With Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhavesh-tarale-737aa3314" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### 🌐 Let’s Connect and Collaborate
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavesh-tarale-737aa3314" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bhaveshtarale576@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bhavesh576" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+### 🎬 Just Keep Scrolling... 👇
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=600&lines=🚀+Learning+Something+New+Every+Day!;💡+Building+Real+AI+Projects+Step-by-Step!;👨‍💻+Code.+Debug.+Repeat.;✨+Let's+Build+The+Future+With+AI!">
+</p>
+
